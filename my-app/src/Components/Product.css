@@ -1,0 +1,29 @@
+.product {
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    display: inline-block;
+    width: 40%;
+    margin: 20px;
+}
+
+.product:hover {
+    color: darkgray;
+    border-color: darkgray;
+}
+
+.product-title {
+ font-size: 40px;
+}
+
+.product-card {
+    display: flex;
+}
+
+.product-image {
+    width: 50%;
+}
+
+.product-description {
+    margin: 5px;
+}

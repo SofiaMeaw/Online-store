@@ -27,6 +27,7 @@ code {
 .home{
   padding: 10px;
   display: flex;
+  margin-right: auto;
   align-items: center;
 }
 
@@ -49,4 +50,6 @@ menu{
   border-top: 1px solid;
   border-bottom: 1px solid;
   margin: 0;
+  padding: 0;
 }
+
